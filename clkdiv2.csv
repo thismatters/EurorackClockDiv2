@@ -10,7 +10,7 @@
 "9","J2, J3, J4","3","AudioJack2_SwitchT","Eurorack:AudioJack2_Tayda_A-2566","","Tayda","A-2566"
 "10","J5, J7, J9","3","Conn_01x03_Socket","Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical","","",""
 "11","J6, J8, J10","3","Conn_01x03_Pin","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical","","",""
-"12","Q1, Q2, Q3","3","BC847","Package_SO:TSOP-6_1.65x3.05mm_P0.95mm","","Mouser","771-BCM847DS135"
+"12","Q1, Q2, Q3","3","BCM847","Package_SO:TSOP-6_1.65x3.05mm_P0.95mm","","Mouser","771-BCM847DS135"
 "13","R1, R2, R20","3","10","Resistor_SMD:R_0805_2012Metric","","",""
 "14","R3, R9","2","1M","Resistor_SMD:R_0805_2012Metric","","",""
 "15","R4","1","1.2M","Resistor_SMD:R_0805_2012Metric","","",""

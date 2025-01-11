@@ -50,3 +50,8 @@ There are part numbers in the [BOM](clkdiv2.csv) for many of the parts (not for 
 
 
 ## Changelog
+
+### V0a (Same solder paste stencil as V0 will work here)
+- [x] Fixed wrong schematic symbol for dual transistor package (Q3 pinout didn't match the BCM847.)
+- [x] Fixed LED footprint to correct side of the board
+- [x] Fixed D9 screenprint overlap
