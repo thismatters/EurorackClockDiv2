@@ -29,11 +29,13 @@ The KiCAD project here uses the library/footprints [found in my companion repo](
 ## Inputs
 
 Jacks:
-- Clock input
+- Clock input*
 - Reset gate
 
 Knobs:
 - 10 position switch for choosing the frequency of gate outputs
+
+\* Note that this module requires a fairly clean input clock signal.
 
 ## Outputs
 
@@ -46,7 +48,7 @@ There are part numbers in the [BOM](clkdiv2.csv) for many of the parts (not for 
 * [Mouser](https://www.mouser.com): Needs no introduction. Get your ICs from here (or [digikey](https://www.digikey.com)).
 * [Tayda Electronics](https://www.taydaelectronics.com/): Good supplier for passive components; audio jacks, and potentiometers. Their audio jacks are slightly smaller than the thonkiconn from thonk.
 * [Love My Switches](https://lovemyswitches.com/): Has [really good knobs](https://lovemyswitches.com/anodized-aluminum-knob-the-lo-fi-1-4-smooth-shaft-12-5mm-od/) to go on those potentiometers!
-* [OSHPark](https://oshpark.com/): Fast and (relatively) cheap PCB manufacturer. Prototype run pending.
+* [OSHPark](https://oshpark.com/): Fast and (relatively) cheap PCB manufacturer. [V0a works great!](https://oshpark.com/shared_projects/LyyWQIPF)
 
 
 ## Changelog
